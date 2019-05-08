@@ -1,0 +1,15 @@
+#.gitignore
+
+# Log files and pid files
+*.pid
+*.log
+*.logs
+
+# dotnet output 
+out
+inner-artifacts
+
+# Visual Studio Code
+.vscode
+.vs
+.idea
